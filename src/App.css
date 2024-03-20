@@ -1,0 +1,16 @@
+body {
+  background-color: #172554 !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+* {
+  color: #f0fdf4 !important;
+}
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
